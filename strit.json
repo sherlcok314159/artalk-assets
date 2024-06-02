@@ -1,0 +1,74 @@
+{
+    "name": "Strit",
+    "type": "image",
+    "items": [
+        {
+            "key": "Strit-to",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/to.webp"
+        },
+        {
+            "key": "Strit-什么_06",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/什么_06.webp"
+        },
+        {
+            "key": "Strit-什么省的_05",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/什么省的_05.webp"
+        },
+        {
+            "key": "Strit-切腹_15",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/切腹_15.webp"
+        },
+        {
+            "key": "Strit-哼哼_01",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/哼哼_01.webp"
+        },
+        {
+            "key": "Strit-垃圾桶_04",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/垃圾桶_04.webp"
+        },
+        {
+            "key": "Strit-害羞_10",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/害羞_10.webp"
+        },
+        {
+            "key": "Strit-打咩_02",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/打咩_02.webp"
+        },
+        {
+            "key": "Strit-拍薯片_07",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/拍薯片_07.webp"
+        },
+        {
+            "key": "Strit-暗中观察_13",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/暗中观察_13.webp"
+        },
+        {
+            "key": "Strit-波门_11",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/波门_11.webp"
+        },
+        {
+            "key": "Strit-消沉_08",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/消沉_08.webp"
+        },
+        {
+            "key": "Strit-溜溜球_16",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/溜溜球_16.webp"
+        },
+        {
+            "key": "Strit-烧了_14",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/烧了_14.webp"
+        },
+        {
+            "key": "Strit-牡蛎_03",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/牡蛎_03.webp"
+        },
+        {
+            "key": "Strit-贴贴_12",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/贴贴_12.webp"
+        },
+        {
+            "key": "Strit-黑线_09",
+            "val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/strit/黑线_09.webp"
+        }
+    ]
+}

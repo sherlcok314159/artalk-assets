@@ -1,0 +1,289 @@
+[{
+	"name": "BlobCat",
+	"type": "image",
+	"items": [{
+			"key": "heart",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatheart.png"
+		},
+		{
+			"key": "aattentionreverse",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatattentionreverse.png"
+		  },
+		  {
+			"key": "acry",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatcry.png"
+		  },
+		  {
+			"key": "adead",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatdead.png"
+		  },
+		  {
+			"key": "aheart",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatheart.png"
+		  },
+		  {
+			"key": "aheartbroken",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatheartbroken.png"
+		  },
+		  {
+			"key": "apet",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatpet.png"
+		  },
+		  {
+			"key": "arainbow",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatrainbow.png"
+		  },
+		  {
+			"key": "areachrev",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatreachrev.png"
+		  },
+		  {
+			"key": "awave",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/ablobcatwave.png"
+		  },
+		  {
+			"key": "0_0",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcat0_0.png"
+		  },
+		  {
+			"key": "alt",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatalt.png"
+		  },
+		  {
+			"key": "angry",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatangry.png"
+		  },
+		  {
+			"key": "blush",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatblush.png"
+		  },
+		  {
+			"key": "box",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatbox.png"
+		  },
+		  {
+			"key": "caged",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatcaged.png"
+		  },
+		  {
+			"key": "coffee",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatcoffee.png"
+		  },
+		  {
+			"key": "comftears",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatcomftears.png"
+		  },
+		  {
+			"key": "comfy",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatcomfy.png"
+		  },
+		  {
+			"key": "comfysweat",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatcomfysweat.png"
+		  },
+		  {
+			"key": "cry",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatcry.png"
+		  },
+		  {
+			"key": "dead",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatdead.png"
+		  },
+		  {
+			"key": "died",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatdied.png"
+		  },
+		  {
+			"key": "disturbed",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatdisturbed.png"
+		  },
+		  {
+			"key": "dizzy",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatdizzy.png"
+		  },
+		  {
+			"key": "drool",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatdrool.png"
+		  },
+		  {
+			"key": "facepalm",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatfacepalm.png"
+		  },
+		  {
+			"key": "fearful",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatfearful.png"
+		  },
+		  {
+			"key": "fingerguns",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatfingerguns.png"
+		  },
+		  {
+			"key": "fireeyes",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatfireeyes.png"
+		  },
+		  {
+			"key": "flip",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatflip.png"
+		  },
+		  {
+			"key": "flower",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatflower.png"
+		  },
+		  {
+			"key": "gay",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatgay.png"
+		  },
+		  {
+			"key": "googlycry",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatgooglycry.png"
+		  },
+		  {
+			"key": "googlytrash",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatgooglytrash.png"
+		  },
+		  {
+			"key": "headphones",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatheadphones.png"
+		  },
+		  {
+			"key": "heart",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatheart.png"
+		  },
+		  {
+			"key": "heartpride",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatheartpride.png"
+		  },
+		  {
+			"key": "highfive",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcathighfive.png"
+		  },
+		  {
+			"key": "kissheart",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatkissheart.png"
+		  },
+		  {
+			"key": "love",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatlove.png"
+		  },
+		  {
+			"key": "melt",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatmelt.png"
+		  },
+		  {
+			"key": "meltthumb",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatmeltthumb.png"
+		  },
+		  {
+			"key": "neutral",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatneutral.png"
+		  },
+		  {
+			"key": "nomblobcat",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatnomblobcat.png"
+		  },
+		  {
+			"key": "notlikethis",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatnotlikethis.png"
+		  },
+		  {
+			"key": "openmouth",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatopenmouth.png"
+		  },
+		  {
+			"key": "outage",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatoutage.png"
+		  },
+		  {
+			"key": "peek2",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatpeek2.png"
+		  },
+		  {
+			"key": "peekaboo",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatpeekaboo.png"
+		  },
+		  {
+			"key": "photo",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatphoto.png"
+		  },
+		  {
+			"key": "police",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatpolice.png"
+		  },
+		  {
+			"key": "presentred",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatpresentred.png"
+		  },
+		  {
+			"key": "read",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatread.png"
+		  },
+		  {
+			"key": "sadreach",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatsadreach.png"
+		  },
+		  {
+			"key": "saitama",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatsaitama.png"
+		  },
+		  {
+			"key": "scared",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatscared.png"
+		  },
+		  {
+			"key": "shocked",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatshocked.png"
+		  },
+		  {
+			"key": "sipsweat",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatsipsweat.png"
+		  },
+		  {
+			"key": "snapped",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatsnapped.png"
+		  },
+		  {
+			"key": "snuggle",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatsnuggle.png"
+		  },
+		  {
+			"key": "think",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatthink.png"
+		  },
+		  {
+			"key": "thinkingeyes",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatthinkingeyes.png"
+		  },
+		  {
+			"key": "toot",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcattoot.png"
+		  },
+		  {
+			"key": "triumph",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcattriumph.png"
+		  },
+		  {
+			"key": "umm",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatumm.png"
+		  },
+		  {
+			"key": "verified",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatverified.png"
+		  },
+		  {
+			"key": "yandere",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/blobcatyandere.png"
+		  },
+		  {
+			"key": "comfynight",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/comfynight.png"
+		  },
+		  {
+			"key": "comfyslep",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/comfyslep.png"
+		  },
+		  {
+			"key": "comfyuee",
+			"val": "https://cdn.jsdelivr.net/gh/sherlcok314159/artalk-assets@main/blobs/comfyuee.png"
+		  }
+	]
+}]
